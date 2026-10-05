@@ -30,8 +30,7 @@ Android, Cervantes, and the desktop build). Plugin version 1.9.2.
    | Desktop builds | `~/.config/koreader/plugins/` |
 
 2. Restart KOReader.
-3. Open the top menu's **Tools** tab (the wrench icon 🛠): **Print** is a
-   top-level entry there.
+3. Open the top menu's **Tools** tab: click **Print**
 
 ## First-time setup
 
